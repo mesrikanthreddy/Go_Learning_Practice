@@ -7,9 +7,9 @@ var a int
 
 /* Declare a group of variables */
 var (
-    b bool
-    c float32
-    d string
+	b bool
+	c float32
+	d string
 )
 
 func main() {
